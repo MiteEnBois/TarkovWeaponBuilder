@@ -5,7 +5,8 @@ Images/img/*
 Images/imgBig/*
 Images/icon/*
 api-key
-
+.vscode
+.vscode/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
